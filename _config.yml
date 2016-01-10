@@ -1,29 +1,41 @@
-name: José Mercado
-favicon: null
-layout_spectrum: 0.25932
-typography_spectrum: 0.50931
 title: José Mercado
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6574468
+favicon: null
+name: José Mercado
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 1
+  saturation: 0.75
   brandColors:
     - '#ffffff'
     - '#cecfd3'
     - '#645f5c'
     - '#010100'
     - '#908b88'
-  brandStrength: 1
   lightness: 1
-  saturation: 0.75
   rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.50931

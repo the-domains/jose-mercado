@@ -1,7 +1,7 @@
 name: José Mercado
 favicon: null
-layout_spectrum: 0.73315
-typography_spectrum: 0
+layout_spectrum: 0.75628
+typography_spectrum: 0.18593
 title: José Mercado
 collections:
   - index:
@@ -29,11 +29,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#cecfd3'
-    - '#645f5c'
-    - '#010100'
-    - '#908b88'
+    - '#72a7c7'
+    - '#0e0e10'
+    - '#fe957f'
+    - '#7a758b'
+    - '#fefc66'
   brandStrength: 0.3125
   lightness: 1
   saturation: 0.75
